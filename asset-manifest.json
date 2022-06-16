@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tienda_redux/static/css/main.0a872e5a.chunk.css",
+    "main.js": "/Tienda_redux/static/js/main.a04cb689.chunk.js",
+    "main.js.map": "/Tienda_redux/static/js/main.a04cb689.chunk.js.map",
+    "runtime-main.js": "/Tienda_redux/static/js/runtime-main.43dde928.js",
+    "runtime-main.js.map": "/Tienda_redux/static/js/runtime-main.43dde928.js.map",
+    "static/js/2.86912fab.chunk.js": "/Tienda_redux/static/js/2.86912fab.chunk.js",
+    "static/js/2.86912fab.chunk.js.map": "/Tienda_redux/static/js/2.86912fab.chunk.js.map",
+    "index.html": "/Tienda_redux/index.html",
+    "static/css/main.0a872e5a.chunk.css.map": "/Tienda_redux/static/css/main.0a872e5a.chunk.css.map",
+    "static/js/2.86912fab.chunk.js.LICENSE.txt": "/Tienda_redux/static/js/2.86912fab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43dde928.js",
+    "static/js/2.86912fab.chunk.js",
+    "static/css/main.0a872e5a.chunk.css",
+    "static/js/main.a04cb689.chunk.js"
+  ]
+}
